@@ -1,3 +1,6 @@
+// I`m be back and im student i wana to learn c
+
+
 #include <stdio.h>
 #include <string.h>
 

@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <stdbool.h>  // add std bool
 
 int main()
 {   
@@ -11,7 +12,12 @@ int main()
     printf("%s",hello);
     printf("\n");
 
-    printf("1\t2\t");
+    bool a = true;
+    bool b = false;
+
+    printf("%d\n", a);
+    printf("%d\n", b);
+
 
     return 0;
 }

@@ -5,19 +5,8 @@
 #include <stdbool.h>  // add std bool
 
 int main()
-{   
-    char hello[] = "Hello World!";
-
-    printf("Hello world ");
-    printf("%s",hello);
-    printf("\n");
-
-    bool a = true;
-    bool b = false;
-
-    printf("%d\n", a);
-    printf("%d\n", b);
-
+{
+    printf("Hello world");
+    
     return 0;
-
 }
